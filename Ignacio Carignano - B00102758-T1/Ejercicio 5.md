@@ -1,4 +1,4 @@
-# Ejercicio Nro: 6
+# Ejercicio Nro: 5
 
 ## Enunciado
 Proponga cinco elementos que ayuden en el desarrollo de software referido a la propiedad de flexibilidad que se requiere.
